@@ -2,14 +2,12 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Udacity Project
 
 ### Description
-Describe what your project is about and what it does
-
+Bikeshare is python project about a company that rents out bicycles 
 ### Files used
-Include the files used
-
+chicago.cvs and newyorkcity.cvs and washington.cvs
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
