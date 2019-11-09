@@ -2,11 +2,9 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
-
+Again for the refactoring branch this is Bikeshare project 
 ### Description
-Describe what your project is about and what it does
-
+Project about a company that rents out bicycles
 ### Files used
 Include the files used
 
